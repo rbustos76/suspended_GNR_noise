@@ -1,0 +1,7 @@
+#  type Lx Ly nx_max ny_max eps nameout    #orden de los parámetros
+#  type (tipo de borde 'ac' o 'zz'), Lx,Ly (Dimensiones del sistema), nx_max,ny_max (modo), eps (Energía),
+#   noise_type (Anderson o Vacancies) noise_delta (W/V0 o % de vacancias) noise_seed nameout (default elije solo el nombre)
+ac 26 26 1 0 0.1 Vacancies 0.0 1247565 default
+ac 27 27 1 0 0.1 Vacancies 0.0 1247565 default
+
+
